@@ -1,6 +1,10 @@
-###  Oi eu sou o Airton! 👋
+<h1 align="center">Hi 👋, I'm Airton Santos</h1>
+<h3 align="center">Dev Full Stack</h3>
 
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
+  <h3 align="left">Languages and Tools:</h3>
+  <br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -12,7 +16,10 @@
   ##
  
 <div> 
- 
-  <a href="https://www.linkedin.com/in/airton-dos-santos-oliveira-19437812a/" target="_blank"><img src="https://media.licdn.com/dms/image/C4D03AQFZdGIVvsPjwA/profile-displayphoto-shrink_200_200/0/1620598456944?e=1699488000&v=beta&t=Qr157pyDoOv4tWeqa3FOuw77cEsJUeaM05hAEhkwXao" target="_blank"></a> 
+ <h3 align="left">Connect with me:</h3>
+  <p align="left">
+<a href="https://www.linkedin.com/in/airton-dos-santos-oliveira-19437812a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+</p>
+  
   
 </div>
